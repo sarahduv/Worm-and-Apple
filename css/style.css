@@ -1,0 +1,33 @@
+.gridCell {
+  width: 10px;
+  height: 10px;
+  background-color: gray;
+}
+
+body {
+  background-color: black;
+}
+
+#wrapper {
+  margin-top: 200px;
+}
+
+.gridWall {
+  background-color: cornflowerblue;
+}
+
+.snakeBody {
+  background-color: green;
+}
+
+.apple {
+  background-image: url('../img/apple.png');
+}
+
+#appleCounterBox {
+  color: white;
+  width: 200px;
+  height: 50px;
+  font-size: 20px;
+  margin-top: 20px;
+}
