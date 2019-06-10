@@ -10,7 +10,7 @@ const TYPE_WALL = 1;
 const TYPE_APPLE = 2;
 const TYPE_SNAKE = 3;
 
-// Directions
+// Directions for snake
 const DIR_UP = 0;
 const DIR_DOWN = 1;
 const DIR_RIGHT = 2;
